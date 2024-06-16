@@ -6,12 +6,11 @@ A Pen created on CodePen.io. Original URL: https://codepen.io/Ashwini-Sonawane/p
 
 
 # Introduction
-WhatsApp Web is a web-based extension of the popular WhatsApp messaging application. It allows users to access their WhatsApp conversations and send/receive messages directly from their web browsers. Integrating HTML forms with WhatsApp Web can enhance user experience and streamline communication.
+WhatsApp Web is a web-based extension of the popular WhatsApp messaging application. 
+It allows users to access their WhatsApp conversations and send/receive messages directly from their web browsers. 
+Integrating HTML forms with WhatsApp Web can enhance user experience and streamline communication.
 
 # System Architecture
-![whatsapp system](https://github.com/SonawaneAshwini/html-form-data-connect-with-WhatsApp/assets/172588428/ff967269-bd8b-4c5f-8f79-e0d495bf80f7)
-
- 
 The system comprises three main components:
 1.	HTML Form: A simple form collecting user data.
 2.	JavaScript: Handles form submission and sends data to WhatsApp.
@@ -28,10 +27,23 @@ The system comprises three main components:
 •	Dynamic Message Creation: Constructs a message string with the form data.
 
 # Implementation Diagrams
-![whatsapp Data Flow](https://github.com/SonawaneAshwini/html-form-data-connect-with-WhatsApp/assets/172588428/90c88e1a-b2d8-4a8c-a5b3-41a00ea7bb6f)
 
+1.	Create an HTML Form: Design a form with fields for the user to fill out. This form will collect the data that you want to send to WhatsApp.
+2.	Write a JavaScript Function: Develop a JavaScript function that will be triggered when the form is submitted. This function will handle the data from the form and format it into a message.
+3.	Integrate WhatsApp API: Use the WhatsApp API to send the formatted message. You’ll need to set up an account with WhatsApp Business API and get access credentials.
+4.	Open WhatsApp Chat: The API will use the message data to open a chat window in the user’s WhatsApp application, allowing them to send the message.
+
+
+
+System Architecture Diagram
+![whatsapp system](https://github.com/SonawaneAshwini/html-form-data-connect-with-WhatsApp/assets/172588428/1277247b-e062-4798-a5e3-f5c432956afa)
 
  
+Data Flow Diagram
+![whatsapp Data Flow](https://github.com/SonawaneAshwini/html-form-data-connect-with-WhatsApp/assets/172588428/7bb59f80-6133-43ea-9a34-3f4692ec3b1c)
+
+ 
+
 # Integration with WhatsApp
 How it Works
 1.	User Input: The user fills out the form with their name, email, and message.
@@ -49,4 +61,3 @@ Integrating HTML form data with WhatsApp Web streamlines communication and enhan
 # References
 1.	MDN Web Docs: HTML, CSS, JavaScript
 2.	How can I send HTML enquiry form data to multiple WhatsApp contacts
-
