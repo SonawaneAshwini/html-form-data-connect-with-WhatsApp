@@ -17,11 +17,12 @@ The system comprises three main components:
 3.	CSS: Styles the form for a user-friendly interface.
    
 # Features
- 	User Interface
+ User Interface
 •	Responsive Design: The form is styled to be visually appealing and user-friendly.
 •	Form Fields: Includes fields for Name, Email, and Message.
 •	Submission Button: A button to submit the form data.
- 	Functionality
+
+ Functionality
 •	Data Collection: Collects user input from the form fields.
 •	WhatsApp Integration: Uses the WhatsApp API to send data as a message.
 •	Dynamic Message Creation: Constructs a message string with the form data.
