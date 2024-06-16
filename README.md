@@ -35,11 +35,11 @@ The system comprises three main components:
 
 
 
-System Architecture Diagram
+# System Architecture Diagram
 ![whatsapp system](https://github.com/SonawaneAshwini/html-form-data-connect-with-WhatsApp/assets/172588428/1277247b-e062-4798-a5e3-f5c432956afa)
 
  
-Data Flow Diagram
+# Data Flow Diagram
 ![whatsapp Data Flow](https://github.com/SonawaneAshwini/html-form-data-connect-with-WhatsApp/assets/172588428/7bb59f80-6133-43ea-9a34-3f4692ec3b1c)
 
  
