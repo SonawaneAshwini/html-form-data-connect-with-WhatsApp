@@ -2,6 +2,8 @@
 A Pen created on CodePen.io. Original URL: https://codepen.io/Ashwini-Sonawane/pen/YzbYxjJ.
 
 ![Screenshot (339)](https://github.com/SonawaneAshwini/html-form-data-connect-with-WhatsApp/assets/172588428/0602fa31-3243-4400-9f5a-8f6ea3d3ab85)
+![Screenshot (340)](https://github.com/SonawaneAshwini/html-form-data-connect-with-WhatsApp/assets/172588428/2eef99a2-7e94-4234-be37-deee6662585a)
+
 
 
 
