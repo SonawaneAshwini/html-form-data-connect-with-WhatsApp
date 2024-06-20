@@ -69,7 +69,7 @@ Integrating HTML form data with WhatsApp Web streamlines communication and enhan
 
 - Ashwini Sonawane
   - Contact: ashwinisonawane@gmail.com
-  - GitHub: https://github.com/SonawaneAshwini
+  - GitHub: [Profile](https://github.com/SonawaneAshwini)
 - Shravan Dalavi
   - Contact: shravandalavi137@gmail.com
-  - GitHub: https://github.com/ShravanDalavi 
+  - GitHub:[Profile]( https://github.com/ShravanDalavi)
