@@ -5,8 +5,6 @@ A Pen created on CodePen.io. Original URL: https://codepen.io/Ashwini-Sonawane/p
 
 
 
-
-
 # Introduction
 WhatsApp Web is a web-based extension of the popular WhatsApp messaging application. 
 It allows users to access their WhatsApp conversations and send/receive messages directly from their web browsers. 
