@@ -3,7 +3,6 @@ A Pen created on CodePen.io. Original URL: https://codepen.io/Ashwini-Sonawane/p
 
 ![Screenshot (340)](https://github.com/SonawaneAshwini/html-form-data-connect-with-WhatsApp/assets/172588428/2eef99a2-7e94-4234-be37-deee6662585a)
 
-
 # Introduction
 WhatsApp Web is a web-based extension of the popular WhatsApp messaging application. 
 It allows users to access their WhatsApp conversations and send/receive messages directly from their web browsers. 
