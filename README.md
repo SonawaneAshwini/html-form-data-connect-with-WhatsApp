@@ -5,7 +5,7 @@
 
 **[Link to demo](https://z7rhpg.csb.app/)**
 
-(This demo website does not mention mobile  number on back end then only redirects not showing number)
+( This demo website does not mention mobile  number on back end then only redirects not showing number )
 
 # Introduction
 WhatsApp Web is a web-based extension of the popular WhatsApp messaging application. 
